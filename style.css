@@ -1,0 +1,49 @@
+h1{
+    font-family: sans-serif;
+    font-weight: bold;
+    color: blue;
+    text-align: center;
+}
+
+.one{
+    height: 300px;
+    width: 150px;
+    background: #9400D3;
+    border: 6px solid white;
+}
+.two{
+    height: 300px;
+    width: 150px;
+    background: #4B0082;
+    border: 6px solid white;
+}
+.three{
+    height: 300px;
+    width: 150px;
+    background: #0000FF;
+    border: 6px solid white;
+}
+.four{
+    height: 300px;
+    width: 150px;
+    background: #00FF00;
+    border: 6px solid white;
+}
+.five{
+    height: 300px;
+    width: 150px;
+    background: #FFFF00;
+    border: 6px solid white;
+}
+.six{
+    height: 300px;
+    width: 150px;
+    background: #FF7F00;
+    border: 6px solid white;
+}
+.seven{
+    height: 300px;
+    width: 150px;
+    background: #FF0000;
+    border: 6px solid white;
+}
